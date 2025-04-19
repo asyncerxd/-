@@ -1,1 +1,6 @@
-fukkkkkfukkkkkfukkkkkfukkkkkfukkkkkfukkkkkfukkkkkfukkkkkfukkkkkfukkkkk
+{
+  "currentVersion": "1.0.0",
+  "description": "MCPTool configuration file",
+  "updateUrl": "https://github.com/wrrulos/MCPTool",
+  "minRequiredVersion": "1.0.0"
+}
